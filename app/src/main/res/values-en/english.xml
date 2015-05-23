@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="codigo">code</string>
+    <string name="marca">make</string>
+    <string name ="año">year</string>
+    <string name ="modelo">model</string>
+    <string name ="color">colors</string>
+    <string name ="descripcion">description</string>
+    <string name ="registar">register</string>
+    <string name ="modificar">modify</string>
+    <string name ="buscar">search</string>
+    <string name ="eliminar">delete</string>
+    <string name ="limpiar">clear</string>
+
+
+</resources>
